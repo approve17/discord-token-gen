@@ -1,6 +1,6 @@
 *DEEP V11x - Discord Account Creator*
 
-*Still not patched out of the 3/25/22!*
+_Still not patched out of the 3/25/22!_
 
 - Threaded.
 - Hcaptcha bypass.
@@ -13,5 +13,3 @@ we can also talk about the price in my telegram. Just
 [contact me](https://t.me/approve17)!
 
 [Telegram](https://t.me/approve17)
-
-_&8&_
