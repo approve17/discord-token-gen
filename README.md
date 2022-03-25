@@ -10,4 +10,4 @@ Screenshare avaible, token quality
 test also avaible. Can use an middleman,
 price is negotiable in my telegram. 
 
-(Contact me!)[https://t.me/approve17]
+[Contact me!](https://t.me/approve17)
