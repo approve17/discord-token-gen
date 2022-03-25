@@ -7,7 +7,7 @@ DEEP v11x - Discord Account Creator
 - Up to 15,000 tokens per hour!
 
 Screenshare avaible, token quality
-test also avaible. Can use an middleman
+test also avaible. Can use an middleman,
 price is negotiable in my telegram. 
 
-https://t.me/approve17
+(Contact me!)[https://t.me/approve17]
