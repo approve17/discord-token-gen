@@ -1,13 +1,17 @@
 *DEEP V11x - Discord Account Creator*
 
-- Threaded
-- Hcaptcha bypass
-- Captcha bypass, human AI
-- Custom domain, mailserver ( non flagged )
+*Still not patched out of the 3/25/22!*
+
+- Threaded.
+- Hcaptcha bypass.
+- Captcha bypass, human AI.
+- Custom domain, mailserver. ( non flagged )
 - Up to 15,000 tokens per hour!
 
-*Screenshare avaible, token quality
-test also avaible. Can use an middleman,
-price is negotiable. [Contact me on telegram](https://t.me/approve17)!.*
+Screenshare possible, token quality test possible,
+we can also talk about the price in my telegram. Just
+[contact me](https://t.me/approve17)!
 
 [Telegram](https://t.me/approve17)
+
+_&8&_
