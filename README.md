@@ -1,6 +1,6 @@
 *DEEP V11x - Discord Account Creator*
 
-_Still not patched out of the 3/25/22!_
+**Still not patched out of the 3/25/22!**
 
 - Threaded.
 - Hcaptcha bypass.
