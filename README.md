@@ -3,6 +3,9 @@
 **Still not patched out of the 3/28/22!**
 
 - Threaded.
+- Email verified.
+- Phone verified.
+- No captcha key.
 - Hcaptcha bypass.
 - Captcha bypass, human AI.
 - Custom domain, mailserver. ( non flagged )
