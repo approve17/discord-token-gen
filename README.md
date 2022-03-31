@@ -1,6 +1,6 @@
 *DEEP V11x - Discord Account Creator*
 
-**Still not patched out of the 3/28/22**
+**Still not patched out of the 4/1/22**
 
 - Threaded.
 - Email verified.
@@ -13,6 +13,6 @@
 
 **Screenshare possible, token quality test possible,
 we can also talk about the price in my telegram. Just
-[contact me](https://t.me/approve17)!**
+[contact me](https://t.me/hocked12)!**
 
-[Telegram](https://t.me/approve17)
+[Telegram](https://t.me/hocked12)
