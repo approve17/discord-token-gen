@@ -1,6 +1,6 @@
 *DEEP V11x - Discord Account Creator*
 
-**Still not patched out of the 4/1/22**
+**Still not patched out of the 4/2/22**
 
 - Threaded.
 - Email verified.
